@@ -1,0 +1,2 @@
+# NodeChat
+Simple chat app
